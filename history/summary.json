@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.customagents.io.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "93.85%",
-    "uptimeDay": "93.85%",
-    "uptimeWeek": "93.85%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "93.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 322,
     "timeDay": 322,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2026-04-05": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Documentation",
