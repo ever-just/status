@@ -1,7 +1,7 @@
 url: https://api.customagents.io/health
-status: down
-code: 503
-responseTime: 88
-lastUpdated: 2026-04-23T17:47:05.731Z
+status: up
+code: 200
+responseTime: 246
+lastUpdated: 2026-04-23T18:47:47.748Z
 startTime: 2026-04-05T20:29:44.482Z
 generator: Upptime <https://github.com/upptime/upptime>
