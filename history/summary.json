@@ -22,18 +22,20 @@
     "url": "https://api.customagents.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.customagents.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 381,
-    "timeWeek": 243,
-    "timeMonth": 236,
-    "timeYear": 236,
-    "dailyMinutesDown": {}
+    "time": 229,
+    "timeDay": 235,
+    "timeWeek": 223,
+    "timeMonth": 229,
+    "timeYear": 229,
+    "dailyMinutesDown": {
+      "2026-04-23": 0
+    }
   },
   {
     "name": "Documentation",
