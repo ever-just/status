@@ -22,10 +22,10 @@
     "url": "https://api.customagents.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.customagents.io.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
     "time": 225,
@@ -34,6 +34,7 @@
     "timeMonth": 225,
     "timeYear": 225,
     "dailyMinutesDown": {
+      "2026-04-25": 2,
       "2026-04-23": 61
     }
   },
@@ -60,10 +61,10 @@
     "url": "https://trust.customagents.io",
     "icon": "https://icons.duckduckgo.com/ip3/trust.customagents.io.ico",
     "slug": "trust-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
@@ -71,17 +72,19 @@
     "timeWeek": 220,
     "timeMonth": 210,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-25": 1
+    }
   },
   {
     "name": "Compliance Console",
     "url": "https://compliance.customagents.io",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.customagents.io.ico",
     "slug": "compliance-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
@@ -89,14 +92,16 @@
     "timeWeek": 182,
     "timeMonth": 176,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-25": 1
+    }
   },
   {
     "name": "Feedback",
     "url": "https://feed.customagents.io",
     "icon": "https://icons.duckduckgo.com/ip3/feed.customagents.io.ico",
     "slug": "feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -107,6 +112,8 @@
     "timeWeek": 352,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-25": 0
+    }
   }
 ]
